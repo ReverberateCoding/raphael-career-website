@@ -1,0 +1,11 @@
+.banner {
+    width: 100%;
+    height: auto;
+}
+
+.flower_image{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin: 0 auto 0 auto;
+}
